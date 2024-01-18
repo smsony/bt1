@@ -1,3 +1,3 @@
-## Sponsors
+## Sponsor(s)
 
-[![DartNode](https://app.dartnode.com/assets/dash/images/brand/logo.png)](https://dartnode.com/)
+[![DartNode](https://dartnode.com/assets/dash/images/brand/favicon2.png)](https://dartnode.com/)
