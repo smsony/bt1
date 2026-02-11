@@ -1,6 +1,6 @@
 echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
 echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
 sysctl -p
-sed -i 's/#Port 22/Port 18009/g' /etc/ssh/sshd_config
+sed -i 's/#Port 22/Port 29347/g' /etc/ssh/sshd_config
 sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/g' /etc/ssh/sshd_config
 systemctl restart sshd
